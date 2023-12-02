@@ -1,6 +1,3 @@
-Absolutely, here's a README file template for using OpenAI's API in a repository:
-
-```markdown
 # OpenAI API Demo
 
 This repository contains a demonstration of using OpenAI's API for various tasks.
